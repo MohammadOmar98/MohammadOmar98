@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MohammadOmar98
+- 👋 Hi, I’m Mohammad
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Asp.Net & C# & Angular
 - 📫 How to reach me =>  Linkedin: https://www.linkedin.com/in/mohammad-omar-409a0b208/
